@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📍📍📍
-<img src="moon.jpg" width="777">
+<img src="moon.jpg" width="770">
 
