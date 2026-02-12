@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="moon.jpg" width="200">
+## 📍
+<img src="moon.jpg" width="777">
 
