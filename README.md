@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--## 📍 On the Moon, bc bro promised his gf the world.-->
-<img src="syntax.jpeg" width="577">
 <img src="python23ds.png" width="577">
 
 
