@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📍 On the Moon, bc bro promised his gf the world.
-<img src="moon.jpg" width="577">
+<!--## 📍 On the Moon, bc bro promised his gf the world.-->
+<img src="blind.jpg" width="577">
 
